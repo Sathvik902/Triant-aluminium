@@ -32,10 +32,17 @@
   background-color: yellow !important;
 }
 
+.footerrow{
+  /* padding-top: 200px !important; */
+  width: 90% !important;
+  display: inline;
+}
+
 .footer{
   position: relative !important;
   bottom: 0 !important;
   left: -1%;
+  /* width: 100px; */
   
 }
 .footer a{

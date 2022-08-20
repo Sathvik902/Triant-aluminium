@@ -9,7 +9,7 @@ function Footer() {
   return (
   <div>
 <footer className="page-footer font-small color blue pt-4">
-  <div className="container-fluid footer  text-center text-md-left">
+  <div className="footerrow container-fluid footer  text-center text-md-left">
     <div className="row">
       {/* <hr className="clearfix w-100 d-md-none pb-3"/> */}
       <div className="contacting col-md-3 mb-md-0 mb-3">
